@@ -1,0 +1,28 @@
+.cont {
+  background-color: blue;
+  border: solid 2px;
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+form {
+  color: white;
+  height: 200px;
+  width: 320px;
+  text-align: center;
+  background-color: black;
+  margin-top: 20px;
+}
+input {
+  width: 300px;
+  margin-top: 5px;
+}
+button {
+  margin-top: 20px;
+  background-color: red;
+  color: wheat;
+  padding: 9px;
+}
